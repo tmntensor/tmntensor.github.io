@@ -52,7 +52,7 @@ comments: true
       {{ meetup.foto }}
       <h3>Доклады</h3>
       <ul class="post-list">
-         {{ talklist.id }}
+         {{ talklist }}
       </ul>
     {% endif %}
 
