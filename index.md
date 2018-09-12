@@ -58,7 +58,7 @@ __Вход – free.__
 
 
 
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Acd52f8c116e73c39bb701429ca0e459d78ce8793e4e75da7c77b2f9773f0cddc&amp;width=687&amp;height=502&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A05bf7f1fee214053b937414958cb54975b4b9558d213a4f1eaef058db8d8da1c&amp;width=772&amp;height=546&amp;lang=ru_RU&amp;scroll=true"></script>
 
 
 <!--
