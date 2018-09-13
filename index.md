@@ -19,7 +19,7 @@ comments: true
 
 <ul class="post-list">
 {% for post in site.categories.talks %}
-  {% if post.date == "2018-09-27" %}
+  {% if post.talk == "meetup_tmn4" %}
     {% if post.author %}
       {% capture authorslist %}
         {% for a in post.author %}
