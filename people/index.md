@@ -29,7 +29,6 @@ comments: true
     <h2 data-company="{{ author.company }}">{{ author.name }}</h2>
     <p>{{ author.bio }}</p>
     <ul class="post-list">
-      0
     {% for post in site.categories.talks %}
       {% if post.author contains authorId %}
       <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
