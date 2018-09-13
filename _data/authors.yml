@@ -182,11 +182,17 @@ kashapov_r:
   # avatar: hekus.png
   # company: Тензор Уфа
   
-# bogatirev_misha:
-  # name: Богатырев Михаил
-  # email: ma.bogatyrev@tensor.ru
-  # avatar: misha.png
-  # company: Тензор Уфа
+bogatirev_misha:
+  name: Богатырев Михаил
+  email: ma.bogatyrev@tensor.ru
+  avatar: misha.png
+  company: Тензор Уфа
+
+shumilova_o:
+  name: Шумилова Оксана
+  email: 1@1.com
+  avatar: shumilova_oksana.png
+  company: Тензор Екатеринбург
 
 # potykov_vitaliy:
   # name: Потяков Виталий
