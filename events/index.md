@@ -19,7 +19,7 @@ comments: true
             {% endif %}
             <li>
                <a href="{{ site.url }}{{ post.url }}">
-                  {{ post.title }}.<br/>{% if author %} {{ author.name }}{% if author.company %}, {{ author.company }}{% endif %}{% endif %}
+                  {{ post.title }}<br/>{% if author %} {{ author.name }}{% if author.company %}, {{ author.company }}{% endif %}{% endif %}
                </a>
             </li>
          {% endif %}
