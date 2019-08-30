@@ -1,23 +1,41 @@
 #Authors
 
-zuev_dmitry:
-  name: Зуев Дмитрий
-  email: dv.zuev@tensor.ru
-  avatar: zuev.png
-  company: Тензор Ярославль
-  
 shevelev_d:
   name: Шевелёв Дмитрий
   email: da.shevelev@tensor.ru
   avatar: shevelev.png
   company: Тензор Тюмень
 
+but_a:
+  name: Бут Александр
+  email: as.but@tensor.ru
+  avatar: a-but.png
+  company: Тензор Тюмень
+
+taranov_y:
+  name: Таранов Юрий
+  email: ua.taranov@tensor.ru
+  avatar: y-taranov.jpg
+  company: Тензор Тюмень
+
+tychinin_n:
+  name: Тычинин Никита
+  email: nv.tychinin@tensor.ru
+  avatar: n-tychinin.png
+  company: Тензор Тюмень
+
+zuev_dmitry:
+  name: Зуев Дмитрий
+  email: dv.zuev@tensor.ru
+  avatar: zuev.png
+  company: Тензор Ярославль
+
 kashapov_r:
   name: Кашапов Руслан
   email: ra.kashapov@tensor.ru
   avatar: kashapov.png
   company: Тензор Тюмень
-  
+
 # izygin_nikita:
 #   name: Изыгин Никита
 #   email: nr.izygin@tensor.ru

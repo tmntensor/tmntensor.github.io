@@ -5,3 +5,7 @@ meetup_tmn3:
 meetup_tmn4:
   date: 2018-09-27
   finished: true
+
+meetup_tmn5:
+  date: 2019-09-19
+  finished: false

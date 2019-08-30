@@ -2,4 +2,4 @@
 
 Встреча разработчиков проходящая в г. Тюмень.
 
-[http://tmn.tensor.ru](http://tmn.tensor.ru/)
+[http://tmnconf.tensor.ru/](http://tmnconf.tensor.ru/)
