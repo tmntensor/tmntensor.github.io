@@ -49,6 +49,7 @@ __Вход – free.__
 
 Где
 ---
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A54eaf86410f7effcdc9c33774d3193862bf6c46521fc0f874210e83fac0d80e7&amp;source=constructor" width="700" height="450" frameborder="0"></iframe>
 
 Встреча пройдет по адресу: г. Тюмень, ул. Республики, 159, Отель Восток, конференц-зал Юпитер.
 
@@ -57,10 +58,6 @@ __Вход – free.__
 Места для парковки автомобилей указаны на карте зеленым цветом.
 
 Контактные телефоны: +7 906 875-06-47 Алёна
-
-<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A54eaf86410f7effcdc9c33774d3193862bf6c46521fc0f874210e83fac0d80e7&amp;source=constructor" width="772" height="546" frameborder="0"></iframe>
-
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A54eaf86410f7effcdc9c33774d3193862bf6c46521fc0f874210e83fac0d80e7&amp;width=772&amp;height=546&amp;lang=ru_RU&amp;scroll=true"></script>
 
 <!--
 <ul class="post-list">
