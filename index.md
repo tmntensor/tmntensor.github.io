@@ -31,7 +31,7 @@ TTF - ежегодная тусовка любителей кода, где мо
     {% endif %}
   {% if post.announce %}
   <li><a href="{{ site.url }}{{ post.url }}">{{ authorslist }}<br/><b>{{ post.title }}</b><br/>
-  <i>{{ post.micro }}</i></a></li>
+  <i class="micro-desc">{{ post.micro }}</i></a></li>
   {% endif %}
   {% endif %}
 {% endfor %}
