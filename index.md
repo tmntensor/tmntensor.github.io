@@ -30,7 +30,8 @@ TTF — ежегодная тусовка тюменских любителей 
       {% endcapture %}
     {% endif %}
   {% if post.announce %}
-  <li>{{ author.avatar }}<a href="{{ site.url }}{{ post.url }}">{{ authorslist }}<br/><b>{{ post.title }}</b><br/>
+  <li><img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+  <a href="{{ site.url }}{{ post.url }}">{{ authorslist }}<br/><b>{{ post.title }}</b><br/>
   <p class="micro-desc">{{ post.micro }}</p></a></li>
   {% endif %}
   {% endif %}
